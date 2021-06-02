@@ -1,0 +1,14 @@
+This is the text file created using nano which, is a text editor built into MACos. 
+****
+testing
+****
+****
+****
+****
+****
+Misc text contents
+****
+****
+****
+****
+Finalized. 
